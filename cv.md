@@ -5,3 +5,4 @@
 5. **Code**: [lian](https://github.com/kudryavi/lian)  
 6. **Experience**: I worked in Bootsplay from May 2019 to February 2020 as a front-end developer, I also study JS on [Hexlet](https://ru.hexlet.io/)  
 7. **Education**: I graduated BSATU, Faculty of Agromechanics.  
+8. **English**: A1
