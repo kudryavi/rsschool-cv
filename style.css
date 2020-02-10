@@ -1,0 +1,62 @@
+.container {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+h1 {
+    margin-top: 20px;
+    padding-bottom: 20px;
+    font-size: 45px;
+    font-weight: 700;
+    text-align: center;
+    border-bottom: 5px double black;
+}
+
+main {
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.personal-information {
+    display: flex;
+    justify-content: space-around;
+}
+
+.personal-information__img {
+    width: 214px;
+    height: 320px;
+}
+
+.personal-information__title {
+    font-size: 30px;
+}
+
+.personal-information__contacts-list {
+    margin-top: 20px;
+}
+
+.personal-information__icon {
+    margin-right: 10px;
+}
+
+.personal-information__item {
+    margin-bottom: 10px;
+}
+
+.information {
+    margin-top: 30px;
+}
+
+.title {
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.information__list {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: disc;
+}
